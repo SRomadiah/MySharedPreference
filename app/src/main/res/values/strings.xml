@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MySharedPreference</string>
+    <string name="tv_name">Name</string>
+    <string name="tv_email">Email</string>
+    <string name="tv_phone_number">Phone Number</string>
+    <string name="tv_age">Age</string>
+    <string name="btn_save">Save</string>
+    <string name="name">masukkan nama</string>
+    <string name="email">masukkan email</string>
+    <string name="phone_number">masukkan no telp</string>
+    <string name="age">masukkan umur anda</string>
+    <string name="love_manchester_united">Apakah kamu suka Coding?</string>
+    <string name="yes">iya</string>
+    <string name="no">tidak</string>
+    <string name="save">simpan</string>
+    <string name="change">Ubah</string>
+</resources>
